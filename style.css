@@ -16,9 +16,10 @@ body{
 
 main{
     background-color:hsl(217, 19%, 24%);
-    padding: 4vh 10vw 10vh 10vw;
+    padding: 4vh 4vw 10vh 4vw;
     border-radius: 1rem;
     box-shadow: 1rem 1rem 2rem;
+    width: 400px;
 }
 
 #adviceNumSection{
