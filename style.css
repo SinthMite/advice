@@ -16,7 +16,7 @@ body{
 
 main{
     background-color:hsl(217, 19%, 24%);
-    padding: 4vh 10vw 5vh 10vw;
+    padding: 4vh 10vw 10vh 10vw;
     border-radius: 1rem;
     box-shadow: 1rem 1rem 2rem;
 }
@@ -38,7 +38,7 @@ main{
     background-image: url('/images/pattern-divider-mobile.svg');
     background-position: center;
     background-repeat: no-repeat;
-    aspect-ratio: 3.1;
+    aspect-ratio: 3/1;
 }
 
 #dice{
@@ -46,7 +46,7 @@ main{
     max-width: 100px; /* Set your maximum size */
     width: 20vw; /* Set your initial width or adjust as needed */
     position: absolute;
-    top: 63vh;
+    top: 65vh;
     left: 50%;
     transform: translate(-50%, -50%);
     background-image: url('images/icon-dice.svg');
