@@ -45,7 +45,7 @@ main{
     aspect-ratio: 1;
     max-width: 100px; /* Set your maximum size */
     width: 20vw; /* Set your initial width or adjust as needed */
-    position: fixed;
+    position: absolute;
     top: 63vh;
     left: 50%;
     transform: translate(-50%, -50%);
